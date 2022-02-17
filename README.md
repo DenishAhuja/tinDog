@@ -1,2 +1,2 @@
-TinDog Starting Files
-link ~ https://denishahuja.github.io/tinDog/
+TinDog ~ a website for dogLovers
+link => https://denishahuja.github.io/tinDog/
